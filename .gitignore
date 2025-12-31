@@ -1,5 +1,5 @@
-/target/ 
+# /target/
 *.jar.original 
 *.iml 
 *.log 
-*.class 
+*.class

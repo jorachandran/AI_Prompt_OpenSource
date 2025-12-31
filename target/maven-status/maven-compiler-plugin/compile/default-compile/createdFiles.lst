@@ -1,0 +1,6 @@
+com\OpenSource\AI_Prompt_OpenSource\Controller\ChatRequest.class
+com\OpenSource\AI_Prompt_OpenSource\Controller\UserController.class
+com\OpenSource\AI_Prompt_OpenSource\Entity\User.class
+com\OpenSource\AI_Prompt_OpenSource\Repository\UserRepository.class
+com\OpenSource\AI_Prompt_OpenSource\AiPromptOpenSourceApplication.class
+com\OpenSource\AI_Prompt_OpenSource\Controller\ChatController.class
